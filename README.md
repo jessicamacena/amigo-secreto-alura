@@ -4,15 +4,17 @@ Este projeto é uma aplicação web para realizar sorteios de amigo secreto de f
 
 Funcionalidades:
 
-Adicionar participantes à lista
-Exibir a lista de participantes
-Realizar o sorteio dos nomes
-Interface fácil e intuitiva
+Adicionar participantes à lista,
+Exibir a lista de participantes,
+Realizar o sorteio dos nomes,
+Interface fácil e intuitiva,
 
 Tecnologias Usadas:
 
 HTML: Estrutura da página
+
 CSS: Estilo da interface
+
 JavaScript: Lógica do jogo e interação
 
 Como Rodar:
