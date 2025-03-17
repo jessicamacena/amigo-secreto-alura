@@ -4,10 +4,9 @@ Este projeto é uma aplicação web para realizar sorteios de amigo secreto de f
 
 Funcionalidades:
 
-Adicionar participantes à lista,
-Exibir a lista de participantes,
-Realizar o sorteio dos nomes,
-Interface fácil e intuitiva,
+Adicionar participantes à lista, exibir a lista de participantes, realizar o sorteio dos nomes, interface fácil e intuitiva.
+
+
 
 Tecnologias Usadas:
 
@@ -17,8 +16,11 @@ CSS: Estilo da interface
 
 JavaScript: Lógica do jogo e interação
 
+
+
 Como Rodar:
 
 Clone o repositório:
 git clone https://github.com/seu-usuario/amigo-secreto.git
+
 Abra o arquivo index.html no seu navegador para iniciar a aplicação.
